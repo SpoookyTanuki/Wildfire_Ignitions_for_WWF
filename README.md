@@ -88,11 +88,9 @@ This repository contains the scripts, datasets, and methodology used to create t
 This Storymap was produced under **COST Action CA22164 NERO (European Network on Extreme fiRe behaviOr)**, supported by the **European Cooperation in Science and Technology (COST)** through a **Short-Term Scientific Mission (STSM)**.  
 
 **Collaborating Institutions:**  
-WWF Greece • COST NERO • Ministry for Climate Crisis and Civil Protection • Research volunteers and GIS experts  
+WWF Greece • COST NERO • Greek Ministry for Climate Crisis and Civil Protection • Volunteers and GIS experts  
 
-**References:**  
-- California State Auditor Report (2021-117)  
-- MDPI “Power Lines and Wildfire Risks” (2023)
+
 
 
 
