@@ -2,7 +2,7 @@
 
 **Storymap Project for WWF Greece**  
 
-***Maps, images and visualisations can be found here: https://arcg.is/1Ti58W1***
+## ***Maps, images and visualisations can be found here: https://arcg.is/1Ti58W1***
 
 
 _Reported cases and proximity of ignition incidents to power lines and urban areas: pattern analysis despite limited data_  
