@@ -54,8 +54,6 @@ Electricity ignitions per municipalities, 2000-2023
 
 Among causes of fires investigated by the Fire Service, these **municipalities have the highest number of fires** caused by electricity ignitions:
 
-**Error! Filename not specified.**
-
 Fire in Ampelia village, Agrinio municipality, July 2023
 
 - Karystos: 29
@@ -127,13 +125,7 @@ Data is owned the Hellenic Electricity Distribution Network Operator (DEDDHE) an
 
 We verified the case studies' data using satellite imagery (Harmonized Sentinel-2 MSI Level-2A), analyzing pre- and post-fire images to distinguish burned areas and assess the damage caused by wildfires that occurred because of electricity ignitions.
 
-**Error! Filename not specified.**
-
-**Error! Filename not specified.**
-
 **Satellite images before and after the fire caused by electricity from the power lines** Stamna village, Aetolia-Acarnania region
-
-**Error! Filename not specified.**
 
 Fire scar - visualisation of dNBR index of fire severity
 
