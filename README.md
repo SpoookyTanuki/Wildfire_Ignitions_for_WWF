@@ -7,7 +7,7 @@
 
 _Reported cases and proximity of ignition incidents to power lines and urban areas: pattern analysis despite limited data_  
 
-**Supported by COST Action CA22164 NERO (European Network on Extreme fiRe behaviOr)**  
+**Funded by the EU intergovernmental framework European Cooperation in Science and Technology (COST) Action CA22164 NERO (european Network on Extreme fiRe behaviOr)**  
 
 
 ---
